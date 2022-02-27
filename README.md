@@ -4,8 +4,8 @@
   
  ​<div align = "center"> 
  ​  <a href="https://github.com/nicolasousa"> 
- ​  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=nicolasousaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
- ​  <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasousa&layout=compact&langs_count=7&theme=tokyonight"/> 
+ ​  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=nicolasousaz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+ ​  <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasousa&layout=compact&langs_count=7&theme=gotham"/> 
  ​</div> 
  ​   
  ​##​ ​Programming Languages 
