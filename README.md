@@ -1,17 +1,17 @@
 <div style="align-itens: center; display: flex; flex-direction: column;">
 <ul style="align-itens: center; display: flex; flex-direction: column;">
          
-<li>👩🏾‍💻Olá !! Me chamo Erick Willyan </li>
+<li>👩🏾‍💻Olá !! Me chamo Nicolas Alves </li>
 <li>🔹 Tenho 17 anos de idade</li> 
 <li> 🎯 Desenvolvedor Full-Stack  </li>
-<li>✉ Entre em contato: erickwillyan2105@gmail.com </li>
+<li>✉ Entre em contato nicolas.sousa0103@gmail.com </li>
 </ul>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ErickWillyan">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ErickWillyan&theme=transparent&show_icons=true"/>
+  <a href="https://github.com/nicolasousa">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolasousa&theme=transparent&show_icons=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickWillyan&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
