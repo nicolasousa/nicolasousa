@@ -7,8 +7,7 @@
          
 <li>👩🏾‍💻Olá !! Me chamo Nicolas Alves </li>
 <li>🔹 Tenho 17 anos de idade</li> 
-<li> 🎯 Desenvolvedor Full-Stack  </li>
-<li>✉ Entre em contato nicolas.sousa0103@gmail.com </li>
+<li>✉ Entre em contato: nicolas.sousa0103@gmail.com </li>
 </ul>
 
 <br>
