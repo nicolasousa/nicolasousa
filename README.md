@@ -5,7 +5,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Nicolas+de+Sousa+Alves..&hearts;++;Back-End+Developer,;Systems+Analysis+and+Development+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
          
-<li>👩🏾‍💻Olá !! Me chamo Nicolas Alves </li>
+<li>👩🏾‍💻 Olá !! Me chamo Nicolas Alves </li>
+<li>👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas</li>
 <li>🔹 Tenho 17 anos de idade</li> 
 <li>✉ Entre em contato: nicolas.sousa0103@gmail.com </li>
 </ul>
