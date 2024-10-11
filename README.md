@@ -16,6 +16,7 @@
   <a href="https://github.com/nicolasousa">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolasousa&theme=transparent&show_icons=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasousa&layout=compact&langs_count=7&theme=transparent"/>
+           <p></p>
 </div>
 
 
