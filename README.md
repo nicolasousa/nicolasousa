@@ -7,7 +7,6 @@
          
 <li>👩🏾‍💻 Olá !! Me chamo Nicolas Alves </li>
 <li>📚 Estudante de Análise e Desenvolvimento de Sistemas</li>
-<li>🔹 Tenho 17 anos de idade</li> 
 <li>✉ Entre em contato: nicolas.sousa0103@gmail.com </li>
 </ul>
 
