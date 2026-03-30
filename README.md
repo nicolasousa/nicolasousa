@@ -7,7 +7,7 @@
          
 <li>👩🏾‍💻 Olá !! Me chamo Nicolas Alves </li>
 <li>📚 Estudante de Análise e Desenvolvimento de Sistemas</li>
-<li>✉ Entre em contato: nicolas.sousa0103@gmail.com </li>
+<li>✉ nicolas.sousa0103@gmail.com </li>
 </ul>
 
 <br>
